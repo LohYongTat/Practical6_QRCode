@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 import AVFoundation
 import QRCodeReader
-
+/*z*/
 class TabViewController : UIViewController, QRCodeReaderViewControllerDelegate {
     
     
